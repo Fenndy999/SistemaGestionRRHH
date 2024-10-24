@@ -1,0 +1,15 @@
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\bin\Debug\net8.0\proyecto.Application.deps.json
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\bin\Debug\net8.0\proyecto.Application.dll
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\bin\Debug\net8.0\proyecto.Application.pdb
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\bin\Debug\net8.0\proyecto.Domain.dll
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\bin\Debug\net8.0\proyecto.Domain.pdb
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\obj\Debug\net8.0\proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\obj\Debug\net8.0\proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\obj\Debug\net8.0\proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\obj\Debug\net8.0\proyecto.Application.AssemblyInfo.cs
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\obj\Debug\net8.0\proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\obj\Debug\net8.0\proyecto.C92ADFFA.Up2Date
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\obj\Debug\net8.0\proyecto.Application.dll
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\obj\Debug\net8.0\refint\proyecto.Application.dll
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\obj\Debug\net8.0\proyecto.Application.pdb
+C:\Users\Alberth\source\repos\SistemaGestionRRHH\proyecto.Application\obj\Debug\net8.0\ref\proyecto.Application.dll

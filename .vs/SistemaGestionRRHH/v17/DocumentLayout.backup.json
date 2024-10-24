@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2171931-9C67-45AC-8D4B-5BAFBC3322B5}|proyecto.Web\\proyecto.Web.csproj|c:\\users\\alberth\\source\\repos\\sistemagestionrrhh\\proyecto.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2171931-9C67-45AC-8D4B-5BAFBC3322B5}|proyecto.Web\\proyecto.Web.csproj|solutionrelative:proyecto.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2171931-9C67-45AC-8D4B-5BAFBC3322B5}|proyecto.Web\\proyecto.Web.csproj|c:\\users\\alberth\\source\\repos\\sistemagestionrrhh\\proyecto.web\\proyecto.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2171931-9C67-45AC-8D4B-5BAFBC3322B5}|proyecto.Web\\proyecto.Web.csproj|solutionrelative:proyecto.web\\proyecto.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2171931-9C67-45AC-8D4B-5BAFBC3322B5}|proyecto.Web\\proyecto.Web.csproj|c:\\users\\alberth\\source\\repos\\sistemagestionrrhh\\proyecto.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2171931-9C67-45AC-8D4B-5BAFBC3322B5}|proyecto.Web\\proyecto.Web.csproj|solutionrelative:proyecto.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9269371-5E03-401A-9EF5-F1CF374B9C7F}|proyecto.Infrastructure\\proyecto.Infrastructure.csproj|c:\\users\\alberth\\source\\repos\\sistemagestionrrhh\\proyecto.infrastructure\\data\\rrhhcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9269371-5E03-401A-9EF5-F1CF374B9C7F}|proyecto.Infrastructure\\proyecto.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\data\\rrhhcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9269371-5E03-401A-9EF5-F1CF374B9C7F}|proyecto.Infrastructure\\proyecto.Infrastructure.csproj|c:\\users\\alberth\\source\\repos\\sistemagestionrrhh\\proyecto.infrastructure\\proyecto.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9269371-5E03-401A-9EF5-F1CF374B9C7F}|proyecto.Infrastructure\\proyecto.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\proyecto.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52227D4-AF3C-4696-9C5A-0CEC3DE75B6A}|proyecto.Domain\\proyecto.Domain.csproj|c:\\users\\alberth\\source\\repos\\sistemagestionrrhh\\proyecto.domain\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52227D4-AF3C-4696-9C5A-0CEC3DE75B6A}|proyecto.Domain\\proyecto.Domain.csproj|solutionrelative:proyecto.domain\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADBAE7A-6E25-4B3A-B2FA-7C0A8E4C6BE4}|proyecto.Api\\proyecto.Api.csproj|c:\\users\\alberth\\source\\repos\\sistemagestionrrhh\\proyecto.api\\proyecto.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CADBAE7A-6E25-4B3A-B2FA-7C0A8E4C6BE4}|proyecto.Api\\proyecto.Api.csproj|solutionrelative:proyecto.api\\proyecto.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E197A5F9-488D-4465-B76C-1F48FA3DA0B8}|proyecto.Application\\proyecto.Application.csproj|c:\\users\\alberth\\source\\repos\\sistemagestionrrhh\\proyecto.application\\proyecto.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E197A5F9-488D-4465-B76C-1F48FA3DA0B8}|proyecto.Application\\proyecto.Application.csproj|solutionrelative:proyecto.application\\proyecto.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9269371-5E03-401A-9EF5-F1CF374B9C7F}|proyecto.Infrastructure\\proyecto.Infrastructure.csproj|c:\\users\\alberth\\source\\repos\\sistemagestionrrhh\\proyecto.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9269371-5E03-401A-9EF5-F1CF374B9C7F}|proyecto.Infrastructure\\proyecto.Infrastructure.csproj|solutionrelative:proyecto.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E197A5F9-488D-4465-B76C-1F48FA3DA0B8}|proyecto.Application\\proyecto.Application.csproj|c:\\users\\alberth\\source\\repos\\sistemagestionrrhh\\proyecto.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E197A5F9-488D-4465-B76C-1F48FA3DA0B8}|proyecto.Application\\proyecto.Application.csproj|solutionrelative:proyecto.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Web\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Web\\Program.cs",
+              "RelativeToolTip": "proyecto.Web\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:00:58.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "proyecto.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Web\\appsettings.json",
+              "RelativeToolTip": "proyecto.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T19:55:00.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RRHHContext.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Infrastructure\\DATA\\RRHHContext.cs.cs",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\DATA\\RRHHContext.cs.cs",
+              "ToolTip": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Infrastructure\\DATA\\RRHHContext.cs.cs",
+              "RelativeToolTip": "proyecto.Infrastructure\\DATA\\RRHHContext.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:52:43.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "proyecto.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Infrastructure\\proyecto.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\proyecto.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Infrastructure\\proyecto.Infrastructure.csproj",
+              "RelativeToolTip": "proyecto.Infrastructure\\proyecto.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T19:49:42.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "proyecto.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Api\\proyecto.Api.csproj",
+              "RelativeDocumentMoniker": "proyecto.Api\\proyecto.Api.csproj",
+              "ToolTip": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Api\\proyecto.Api.csproj",
+              "RelativeToolTip": "proyecto.Api\\proyecto.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T19:46:21.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "proyecto.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Web\\proyecto.Web.csproj",
+              "RelativeDocumentMoniker": "proyecto.Web\\proyecto.Web.csproj",
+              "ToolTip": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Web\\proyecto.Web.csproj",
+              "RelativeToolTip": "proyecto.Web\\proyecto.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T19:46:04.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "proyecto.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Application\\proyecto.Application.csproj",
+              "RelativeDocumentMoniker": "proyecto.Application\\proyecto.Application.csproj",
+              "ToolTip": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Application\\proyecto.Application.csproj",
+              "RelativeToolTip": "proyecto.Application\\proyecto.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T19:42:18.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "proyecto.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "proyecto.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:38:55.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "proyecto.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Application\\Class1.cs",
+              "RelativeToolTip": "proyecto.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:37:38.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Domain\\Empleado.cs",
+              "RelativeDocumentMoniker": "proyecto.Domain\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Alberth\\source\\repos\\SistemaGestionRRHH\\proyecto.Domain\\Empleado.cs",
+              "RelativeToolTip": "proyecto.Domain\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:37:08.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
